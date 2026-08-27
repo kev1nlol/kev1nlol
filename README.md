@@ -2,11 +2,35 @@
 
 ### 🛠 技术栈
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,docker,git&perline=12" />
-</a>
+**前端**
 
-<!-- 图标列表按需增删，代码见 https://github.com/tandpfun/skill-icons -->
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript)
+![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui)
+![Tailwind CSS v4](https://img.shields.io/badge/-Tailwind%20CSS%20v4-0d1117?style=flat-square&logo=tailwindcss)
+
+**后端**
+
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy)
+![Alembic](https://img.shields.io/badge/-Alembic-0d1117?style=flat-square)
+![uv](https://img.shields.io/badge/-uv-0d1117?style=flat-square&logo=uv)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql)
+
+**智能体**
+
+框架 ![LangChain](https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=langchain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-0d1117?style=flat-square&logo=langgraph)
+
+交互层 ![rich](https://img.shields.io/badge/-rich-0d1117?style=flat-square&logo=rich)
+![textual](https://img.shields.io/badge/-textual-0d1117?style=flat-square&logo=textual)
+
+**工具**
+
+![Ruff](https://img.shields.io/badge/-Ruff-0d1117?style=flat-square&logo=ruff)
+![pyright](https://img.shields.io/badge/-pyright-0d1117?style=flat-square)
 
 ### 📊 GitHub 统计
 
